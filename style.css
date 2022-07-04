@@ -13,6 +13,7 @@ h1{
 
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 
 #batman{
@@ -37,4 +38,13 @@ section{
 .top_banner{
     background-image: url(showoff/top-banner.png);
     background-repeat: no-repeat;
+}
+#circ{
+    border: 2px white solid;
+    border-radius: 50%;
+}
+.dreambig{
+    background-image: url(showoff/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
