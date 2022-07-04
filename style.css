@@ -1,0 +1,40 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.orange_color{
+    color: orange;
+}
+
+section{
+    display: flex;
+}
+
+#batman{
+    color: tomato;
+}
+
+.half-wid{
+    width: 50%;
+    padding-left: 6%;
+}
+.half-wid img{
+    width:80%;
+}
+.hireme{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(232, 103, 48), rgb(241, 136, 136));
+    color: whitesmoke;
+    font-weight: 800;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+.top_banner{
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+}
